@@ -13,7 +13,7 @@ return (
 
 
 <input type = "text"/>
-<input type = "button" value = "click"/>
+<input type = "button" value = "click" name="hello" />
 <p></p>
 </div>
 </div>
